@@ -116,12 +116,12 @@ int main()
         cout << "0 - End the program.\n";
         cout << "1 - Bring up the categories list.\n";
         cout << "2 - Bring up all SKU's and their descriptions.\n";
-        cout << "3  -Show all items in a specific category.\n";
-        cout << "4  -Search for a specific item by its SKU.\n";
-        cout << "5  -Add a new category to the categories list.\n";
-        cout << "6  -Remove a category from the categories list.\n";
-        cout << "7  -Add an item to the list.\n";
-        cout << "8  -Delete an item from the list.\n" << endl;
+        cout << "3 - Show all items in a specific category.\n";
+        cout << "4 - Search for a specific item by its SKU.\n";
+        cout << "5 - Add a new category to the categories list.\n";
+        cout << "6 - Remove a category from the categories list.\n";
+        cout << "7 - Add an item to the list.\n";
+        cout << "8 - Delete an item from the list.\n" << endl;
 
         string input;
         cin >> input;
