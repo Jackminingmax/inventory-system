@@ -1,0 +1,5 @@
+﻿  AVL.cpp
+  InventorySystemProject_update.cpp
+E:\Jack Max\source\repos\InventorySystemProject_update\InventorySystemProject_update\InventorySystemProject_update.cpp(291,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  InventorySystemProject_update.vcxproj -> E:\Jack Max\source\repos\InventorySystemProject_update\x64\Debug\InventorySystemProject_update.exe
