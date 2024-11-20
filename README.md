@@ -19,4 +19,8 @@ As you see it can also print out any and all information it has.
 
 You can delete items and categories and the program will take care of reusing those slots and re-ordering everything.
 
+Categories are implemented into an AVL Tree, and the items are inserted into a dynamic array inside the AVL tree.
+
+Categories can currently handle up to 999 items each.
+
 To end the program, just enter 0 at the hub. Exiting any other way will not save the changes you've made.
